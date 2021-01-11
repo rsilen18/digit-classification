@@ -1,4 +1,4 @@
-# digit-classification
+# Digit Classification
 Classifying handwritten digits data (0-9) using various machine learning techniques.
 
 ![plot](./digits-features-results.png)
